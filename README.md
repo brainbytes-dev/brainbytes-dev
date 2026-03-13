@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Henrik 👋</h1>
+<h1 align="center">Hey, I'm BrainBytes 👋</h1>
 
 <p align="center">
   <strong>Building open-source tools & templates. Ship faster.</strong>
