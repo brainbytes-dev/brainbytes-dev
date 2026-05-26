@@ -52,6 +52,12 @@ Tools for the web today, infrastructure for the agents coming after it.
 
 ## Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brainbytes-dev/brainbytes-dev/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brainbytes-dev/brainbytes-dev/output/snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/brainbytes-dev/brainbytes-dev/output/snake.svg" width="100%">
+</picture>
+
 <p>
   <img src="https://brainbytes-stats.vercel.app/api?username=brainbytes-dev&show_icons=true&hide_border=true&count_private=true&title_color=22c55e&icon_color=22c55e&text_color=9ca3af&bg_color=0a0a0a&v=2" alt="Stats" height="150">
   <img src="https://brainbytes-stats.vercel.app/api/top-langs/?username=brainbytes-dev&layout=compact&hide_border=true&title_color=22c55e&text_color=9ca3af&bg_color=0a0a0a&v=2" alt="Top Languages" height="150">
