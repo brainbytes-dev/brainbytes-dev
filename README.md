@@ -1,6 +1,6 @@
 # BrainBytes Studio
 
-**An independent studio building small, focused software.**
+**An independent vibe-coding studio building small, focused software.**
 Tools for the web today, infrastructure for the agents coming after it.
 
 [![studio](https://img.shields.io/badge/studio-brainbyt.es-15803d?style=flat-square&labelColor=0a0a0a)](https://brainbyt.es)
