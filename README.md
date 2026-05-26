@@ -53,8 +53,8 @@ Tools for the web today, infrastructure for the agents coming after it.
 ## Activity
 
 <p>
-  <img src="https://brainbytes-stats.vercel.app/api?username=brainbytes-dev&show_icons=true&hide_border=true&count_private=true&title_color=22c55e&icon_color=22c55e&text_color=9ca3af&bg_color=0a0a0a" alt="Stats" height="150">
-  <img src="https://brainbytes-stats.vercel.app/api/top-langs/?username=brainbytes-dev&layout=compact&hide_border=true&title_color=22c55e&text_color=9ca3af&bg_color=0a0a0a" alt="Top Languages" height="150">
+  <img src="https://brainbytes-stats.vercel.app/api?username=brainbytes-dev&show_icons=true&hide_border=true&count_private=true&title_color=22c55e&icon_color=22c55e&text_color=9ca3af&bg_color=0a0a0a&v=2" alt="Stats" height="150">
+  <img src="https://brainbytes-stats.vercel.app/api/top-langs/?username=brainbytes-dev&layout=compact&hide_border=true&title_color=22c55e&text_color=9ca3af&bg_color=0a0a0a&v=2" alt="Top Languages" height="150">
 </p>
 
 ---
