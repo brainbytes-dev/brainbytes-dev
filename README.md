@@ -21,8 +21,6 @@ Tools for the web today, infrastructure for the agents coming after it.
 
 **[everything-claude-marketing](https://github.com/brainbytes-dev/everything-claude-marketing):** Marketing intelligence for Claude Code, covering every discipline end to end.
 
-**[engpassradar](https://github.com/brainbytes-dev/engpassradar):** Swiss drug-shortage tracker. Scrapes the official register daily, surfaces shortages with search, filters and detail views.
-
 ---
 
 ## How the studio ships
